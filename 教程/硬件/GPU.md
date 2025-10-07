@@ -2,7 +2,7 @@
 图形处理器（Graphics Processing Unit，简称GPU），是一种用于处理图像和图形运算工作的协处理器。
 GPU被广泛应用在个人电脑、工作站和一些移动设备（如智能手机、平板电脑等）。在本教程中,我们将它简称为GPU。
 
-<img src="../../图片/GPU.png" alt="GPU" height=200>
+<img src="../../图片/GPU.jpg" alt="GPU" height=200>
 
 ### 1.3.1 GPU的作用
 
@@ -48,7 +48,7 @@ GPU最初被创造出来，就是为了解决一个极其繁重的并行计算�
 
 挖矿过程需要重复进行大量的哈希计算，这正是GPU所擅长的。在挖矿热潮中，GPU一度成为硬通货。
 
-<img src="../../图片/bitcoin.jpg" alt="bitcoin" height=200>
+<img src="../../图片/bitcoin.jpeg" alt="bitcoin" height=200>
 
 >[!CAUTION]
 > 本教程不鼓励读者进行任何形式的加密货币交易与投机活动！
@@ -102,7 +102,7 @@ RT Core专门用于处理光线追踪计算，能够实时、精准地模拟光�
 
 对于现代游戏（光追）和AI应用，这些专用单元的性能至关重要。
 
-<img src="../../图片/RayTracing.png" alt="RayTracing" height=300>
+<img src="../../图片/RayTracing.jpg" alt="RayTracing" height=300>
 
 #### 1.3.3.2 内存系统参数
 
