@@ -14,7 +14,7 @@
 
 **方法二：** 在桌面空白区单击右键，在弹出菜单中选择 **“个性化”**，这会打开一个设置页面，如下。
 
-<img src='../../图片/xt-szygxh-background.png' alt="Background" height=300pt>
+<img src='../../图片/xt-szygxh10-background.png' alt="Background" height=300pt>
 
 其中，最上方的图片是当前的系统样式预览。
 
@@ -24,7 +24,7 @@
 
 **2、“幻灯片放映”** 会轮换展示一个文件夹里的图片。
 
-<img src='../../图片/xt-szygxh-ppt.png' alt="Ppt" height=300pt>
+<img src='../../图片/xt-szygxh10-ppt.png' alt="Ppt" height=300pt>
 
 这个文件夹在 **“为幻灯片选择相册”** 中选择，按下 **“浏览”** 键可以选择文件夹。你可以在某个位置新建一个文件夹，把想作为背景的图片全部放进去，然后在这里选择该文件夹。
 
@@ -36,7 +36,7 @@
 
 **“选择契合度”** 设置图片的契合模式。图片的分辨率和屏幕的不一定相同（链接），这时系统会根据这里的契合模式让图片适应屏幕大小。
 
-<img src='../../图片/xt-szygxh-picture.png' alt="Picture" height=150pt>
+<img src='../../图片/xt-szygxh10-picture.png' alt="Picture" height=150pt>
 
 **3、“Windows聚焦”** 会轮流把由Windows提供的内容，包括世界美景胜地和野生动物的图片，作为背景。
 
@@ -60,7 +60,7 @@
 
 在桌面空白区右键，在弹出菜单中选择 **“显示管理”** 会打开如下页面：
 
-<img src='../../图片/xt-szygxh-visual.png' alt="Visual" height=300pt>
+<img src='../../图片/xt-szygxh10-visual.png' alt="Visual" height=300pt>
 
 其中 **“去设置”** 会跳转到设置文本大小和分辨率的页面，详见[2.8.1.3 - 显示设置](#2813-显示设置)，其余选项字如其意，不做赘述。
 
@@ -68,7 +68,7 @@
 
 在桌面空白区右键，在弹出的菜单中选择 **“显示设置”** 会跳转到设置中的有关页面，如下。
 
-<img src='../../图片/xt-szygxh-set.png' alt="Visual" height=400pt>
+<img src='../../图片/xt-szygxh10-set.png' alt="Visual" height=400pt>
 
 我们将重点介绍 **“缩放与布局”** 部分。
 
@@ -86,11 +86,11 @@
 
 在 **“开始”** 页面中，左键单击电源上方的齿轮按钮可以打开如下的设置页面。
 
-<img src='../../图片/xt-szygxh-settings.png' alt="Settings" height=400pt>
+<img src='../../图片/xt-szygxh10-settings.png' alt="Settings" height=400pt>
 
 在 **“开始”** 页面的W字母区，点开 **“Windows系统”** 文件夹，选择 **“控制面板”** 可以打开如下的控制面板页面。
 
-<img src='../../图片/xt-szygxh-panel.png' alt="Panel" height=400pt>
+<img src='../../图片/xt-szygxh10-panel.png' alt="Panel" height=400pt>
 
 这两个页面都用于对系统进行基础设置。
 
@@ -99,7 +99,7 @@
 >
 >“控制面板”在Windows初代版本开始就一直存在，而“设置”是Windows8加入的。之后，微软不断把“控制面板”中的功能整合到“设置”中，这是大的趋势。但是，由于“控制面板”兼容一些程序的设置（第三方软件厂商可以制作小程序放入“控制面板”中来让用户在“控制面板”上方便地设置软件），如果直接把其功能全部放到“设置”中，会引发兼容性问题；此外，考虑到Windows老用户的使用习惯，以及“控制面板”的布局更适合鼠标操作，这个整合迟迟没有完成。对于某些设置项，它们会互相跳转；对于另一些设置项，“设置”和“控制面板”甚至有“两班人马”，例如“日期和时间”部分（图中右下两个窗口是“控制面板”，最大的窗口是“设置”）。
 >
-><img src='../../图片/xt-szygxh-compare.png' alt="Compare" height=400pt>
+><img src='../../图片/xt-szygxh10-compare.png' alt="Compare" height=400pt>
 >
 >对新手来说，打开“设置”页面更为容易，因此本节主要介绍“设置”的使用，只有在必要的时候会使用“控制面板”。
 
