@@ -147,7 +147,7 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 ![简单](../../图片/easy.svg)
 
-<img src='../../图片/xt-rwl-time.png' alt="Time" height=300pt>
+<img src='../../图片/xt-rwl10-time.png' alt="Time" height=300pt>
 
 这里显示了时间、日期、日历和日程，不做赘述。
 
