@@ -2,7 +2,7 @@
 
 任务栏通常位于桌面最下方，是一个长条。最左侧有一个Windows图标，最右侧显示了时间、通知、电量、声音等。任务栏允许个性化，因此你的电脑上它可能与本教材上不一样。如果遇到这样的情况，跳过不一样的地方即可。
 
-<img src='../../图片/xt-rwl-taskbar.png' alt="Taskbar" height=300pt>
+<img src='../../图片/xt-rwl11-taskbar.png' alt="Taskbar" height=300pt>
 
 我们把这些图标分别编号，以方便介绍，如上。
 
@@ -12,7 +12,7 @@
 
 单击最左侧的Windows图标，一个界面会从这里升起。
 
-<img src='../../图片/xt-rwl-start.png' alt="Start" height=200pt>
+<img src='../../图片/xt-rwl11-start.png' alt="Start" height=200pt>
 
 #### 2.6.1.1 最左栏
 
@@ -54,7 +54,7 @@
 
 有的电脑不会显示搜索框，这主要依据个人习惯。如果想要调整显示与否，参见[2.6.14 - 调整任务栏布局](#)。
 
-<img src='../../图片/xt-rwl-search.png' alt="Search" height=200pt>
+<img src='../../图片/xt-rwl11-search.png' alt="Search" height=200pt>
 
 单击搜索框可以在这里输入要搜索的内容。这里可以搜索系统内的文件或程序，如果系统中没有这样的程序，那么会显示通过Microsoft Edge浏览器搜索到的网络内容。
 在此栏上方选择 **“应用” “文档”** 等选项可以限定搜索的范围。
@@ -86,11 +86,11 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 如果一个图标下画了一条蓝线，则表示这是一个被缩略的窗口。单击它可以打开窗口。比如，下面这个窗口是作者正在用来编写本教材的窗口。
 
-<img src='../../图片/xt-rwl-vsc1.png' alt="Vsc1" height=150pt>
+<img src='../../图片/xt-rwl11-vsc1.png' alt="Vsc1" height=150pt>
 
 单击它就能打开这个窗口。
 
-<img src='../../图片/xt-rwl-vsc2.png' alt="Vsc2" height=300pt>
+<img src='../../图片/xt-rwl11-vsc2.png' alt="Vsc2" height=300pt>
 
 >[!TIP]
 >如果你想知道，这个软件叫作Visual Studio Code。对编程感兴趣的话，你可能会用到它。
@@ -131,7 +131,7 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 ![简单](../../图片/easy.svg)
 
-<img src='../../图片/xt-rwl-audio.png' alt="Audio" height=150pt>
+<img src='../../图片/xt-rwl11-audio.png' alt="Audio" height=150pt>
 
 左侧喇叭按钮可以设置静音与否，中间滑块可以调整音量，而上方扬声器选项用于在连接了多个扬声时，选择使用的扬声器。
 
@@ -155,7 +155,7 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 ![简单](../../图片/easy.svg)
 
-<img src='../../图片/xt-rwl-inf.png' alt="Inf" height=400pt>
+<img src='../../图片/xt-rwl11-inf.png' alt="Inf" height=400pt>
 
 这个页面上方显示了收到的通知（例如微信和QQ的消息、电子邮件等）。
 
@@ -185,7 +185,7 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 在任务栏空白（没有图标的）区域单击右键，会出现以下选项，我们将选择性介绍。
 
-<img src='../../图片/xt-rwl-edit.png' alt="Edit" height=300pt>
+<img src='../../图片/xt-rwl11-edit.png' alt="Edit" height=300pt>
 
 **“工具栏”** 可以在任务栏显示地址（即文件路径）、桌面（即桌面上的文件）、链接（系统默认的链接文件夹）工具栏，但很少使用。
 
@@ -205,7 +205,7 @@ Cortana是微软的语音助手，类似于苹果的Siri等。但是由于ChatGP
 
 **“锁定任务栏”** 用于锁定任务栏的大小。如果没有启用，任务栏的上边缘可以拖动以改变宽度，这时如果不小心拖动了任务栏上边缘，会把桌面搞得一团乱，就像这样：
 
-<img src='../../图片/xt-rwl-mess.png' alt="Mess" height=400pt>
+<img src='../../图片/xt-rwl11-mess.png' alt="Mess" height=400pt>
 
 锁定后就不会如此。
 
