@@ -2,13 +2,9 @@
 
 打开电脑后，你会进入一个这样的界面（背景图片采用全白）：
 
-<img src='../../图片/xt-zmcycz-desktop.png' alt="Desktop" height=300pt>
+<img src='../../图片/' alt="Win11desktop" height=300pt>
 
-<img src='../../图片/xt-cjczxt-win11desktop.png' alt="Win11desktop" height=300pt>
-
-上图是Windows10桌面，下图是Windows11桌面。
-
-这里选择Windows10来演示。将桌面操作分为以下几个部分：
+将桌面操作分为以下几个部分：
 
 <img src='../../图片/xt-zmcycz-section.png' alt="Section" height=300pt>
 
@@ -16,9 +12,9 @@
 
 ![简单](../../图片/easy.svg)
 
-通常，电脑桌面上会有如下图标（Windows10左，Windows11右）：
+通常，电脑桌面上会有如下图标：
 
-<img src='../../图片/xt-zmcycz-thispc10.png' alt="Thispc10" height=150pt><img src='../../图片/xt-zmcycz-thispc11.png' alt="Thispc11" height=150pt>
+<img src='../../图片/xt-zmcycz11-thispc-1.png' alt="Thispc11" height=150pt>
 
 鼠标左键双击它，会出现如下界面：
 
@@ -36,9 +32,9 @@
 
 ![简单](../../图片/easy.svg)
 
-桌面上另一个常用程序的图标是这个（Windows10左，Windows11右）:
+桌面上另一个常用程序的图标是这个:
 
-<img src='../../图片/xt-zmcycz-win10bin.png' alt="Win10bin" height=150pt><img src='../../图片/xt-zmcycz-win11bin.png' alt="Win11bin" height=150pt>
+<img src='../../图片/xt-zmcycz11-bin-1.png' alt="Win11bin" height=150pt>
 
 鼠标左键双击它，会出现如下界面：
 
@@ -60,9 +56,9 @@
 
 ![简单](../../图片/easy.svg)
 
-这种图标是文件夹（Windows10左，Windows11右）:
+这种图标是文件夹:
 
-<img src='../../图片/xt-zmcycz-folder.png' alt="Folder" height=150pt><img src='../../图片/xt-zmcycz-folder11.webp' alt="Folder11" height=150pt>
+<img src='../../图片/xt-zmcycz11-folder11.webp' alt="Folder11" height=150pt>
 
 双击即可打开文件夹查看其中文件，页面如下：
 

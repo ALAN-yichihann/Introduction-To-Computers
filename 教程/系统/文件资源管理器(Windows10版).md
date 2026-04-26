@@ -2,11 +2,11 @@
 
 [2.2 - 桌面常用操作](桌面常用操作.md)中我们提到，此电脑、回收站、文件夹的页面都是“文件资源管理器”的页面。这个神通广大的程序帮助你管理电脑里的文件。
 
-<img src='../../图片/xt-wjzyglq-logo.png' alt="Logo" height=150pt>
+<img src='../../图片/xt-wjzyglq10-logo.png' alt="Logo" height=150pt>
 
 窗口示例如下：
 
-<img src='../../图片/xt-wjzyglq-exp.png' alt="Exp" height=200pt>
+<img src='../../图片/xt-wjzyglq10-exp.png' alt="Exp" height=200pt>
 
 如果要关闭这个窗口，单击右上角的叉号。
 
@@ -28,7 +28,7 @@
 >[!IMPORTANT]
 >如果鼠标对准文件名的位置左键双击，会进入重命名文件模式。重命名将在之后涉及。
 
-<img src='../../图片/xt-wjzyglq-click.png' alt="Click" height=200pt><img src='../../图片/xt-wjzyglq-txt.png' alt="Txt" height=200pt>
+<img src='../../图片/xt-wjzyglq10-click.png' alt="Click" height=200pt><img src='../../图片/xt-wjzyglq10-txt.png' alt="Txt" height=200pt>
 
 双击程序就会运行它，在此不做示例。
 
@@ -36,7 +36,7 @@
 
 对一个文件单击右键会出现一个列表，如下：
 
-<img src='../../图片/xt-wjzyglq-list1.png' alt="List1" height=300pt>
+<img src='../../图片/xt-wjzyglq10-list1.png' alt="List1" height=300pt>
 
 我们这个列表分为6个部分介绍（如上），没有标号的部分不常用或不重要。
 各个选项后括号中的字母是快捷键。在此列表出现时，按下对应字母就会执行对应的选项。
@@ -59,7 +59,7 @@
 
 选择“打开方式”会显示电脑中可用于打开此文件的程序的列表，如下。如果你对某个程序打开此文件的方式不满意，可以在此选择另一个程序。
 
-<img src='../../图片/xt-wjzyglq-list2.png' alt="List2" height=150pt>
+<img src='../../图片/xt-wjzyglq10-list2.png' alt="List2" height=150pt>
 
 ##### 2.3.1.3.4 剪切与复制
 
@@ -87,7 +87,7 @@
 
 在文件以外的任意空白区域单击右键会出现一个列表，如下。
 
-<img src='../../图片/xt-wjzyglq-list3.png' alt="List3" height=200pt>
+<img src='../../图片/xt-wjzyglq10-list3.png' alt="List3" height=200pt>
 
 我们逐个介绍每个选项。
 
@@ -99,7 +99,7 @@
 
 选择 **“排序方式”** 可以设置此文件夹中文件的排序方式，如下。
 
-<img src='../../图片/xt-wjzyglq-list4.png' alt="List4" height=150pt>
+<img src='../../图片/xt-wjzyglq10-list4.png' alt="List4" height=150pt>
 
 其中，**“名称”** 表示按首字母（拼音首字母）排序；**“类型”** 表示按文件类型排序；**“大小”** 表示按文件大小排序。
 
@@ -109,7 +109,7 @@
 
 选择“分组依据”可以设置此文件夹中文件的分组方式，如下。
 
-<img src='../../图片/xt-wjzyglq-list5.png' alt="List5" height=150pt>
+<img src='../../图片/xt-wjzyglq10-list5.png' alt="List5" height=150pt>
 
 具体内容同上，不做赘述。
 
@@ -151,7 +151,7 @@
 
 选择“新建”可以选择在此位置新建的文件类型，会显示为如下列表（具体文件类型根据电脑上拥有的软件不同而不同）：
 
-<img src='../../图片/xt-wjzyglq-list6.png' alt="List6" height=200pt>
+<img src='../../图片/xt-wjzyglq10-list6.png' alt="List6" height=200pt>
 
 点击想要新建的文件类型或文件夹即可，选择后自动进入命名模式。
 
@@ -171,11 +171,11 @@
 
 最简单的选择多个文件方式是按住鼠标左键不动，拉出一个矩形。所有被这个矩形触碰的文件都会被选中并显示为蓝框，如下：
 
-<img src='../../图片/xt-wjzyglq-choose.png' alt="Choose" height=150pt>
+<img src='../../图片/xt-wjzyglq10-choose.png' alt="Choose" height=150pt>
 
 也可以用文件复选框一个个勾选文件，即下图最左侧的的勾。
 
-<img src='../../图片/xt-wjzyglq-tick.png' alt="Tick" height=100pt>
+<img src='../../图片/xt-wjzyglq10-tick.png' alt="Tick" height=100pt>
 
 你可以对选中的文件进行批量操作。此时在文件上右键，所执行的操作会对全部被选中的文件有效；也可以批量移动或复制文件，详见[2.3.7 - 移动文件](#237-移动文件)。
 
@@ -195,7 +195,7 @@
 
 单击“文件”会显示如下列表：
 
-<img src='../../图片/xt-wjzyglq-list7.png' alt="List7" height=200pt>
+<img src='../../图片/xt-wjzyglq10-list7.png' alt="List7" height=200pt>
 
 右侧显示了最近访问的位置。
 
@@ -211,7 +211,7 @@
 
 #### 2.3.5.2 主页
 
-<img src='../../图片/xt-wjzyglq-list8.png' alt="List8" height=100pt>
+<img src='../../图片/xt-wjzyglq10-list8.png' alt="List8" height=100pt>
 
 这里显示了一些常用操作，例如删除、移动、复制、重命名、选择等，但一般不用此界面对文件执行操作，而是直接对文件单击右键或使用快捷键。
 
@@ -223,7 +223,7 @@
 
 这个页面十分常用。
 
-<img src='../../图片/xt-wjzyglq-list9.png' alt="List9" height=100pt>
+<img src='../../图片/xt-wjzyglq10-list9.png' alt="List9" height=100pt>
 
 左起第一个部分 **“查看”** 可以设置导航窗格和右侧窗格的显示格式。这部分可以在对电脑的基础操作熟悉之后自行探索，现不作介绍。
 
@@ -279,7 +279,7 @@
 
 此外，也可以拖动，如下。这同样对单个文件和被选中的多个文件有效。
 
-<img src='../../图片/xt-wjzyglq-move.png' alt="Move" height=200pt>
+<img src='../../图片/xt-wjzyglq10-move.png' alt="Move" height=200pt>
 
 ### 2.3.8 预览
 
@@ -287,11 +287,11 @@
 
 在窗口右侧，有一个区域会展示缩略版的文件内容，如下：
 
-<img src='../../图片/xt-wjzyglq-pre.png' alt="Pre" height=200pt>
+<img src='../../图片/xt-wjzyglq10-pre.png' alt="Pre" height=200pt>
 
 这样，你不用打开文件就可以大概知道文件的内容。但是，如果文件很大，加载预览可能需要很长的时间并导致卡顿，这时可以把预览功能关闭，在查看-窗格中可以设置让此处展示详细信息或什么都不展示，点击预览窗格/详细信息窗格按钮即可。
 
-<img src='../../图片/xt-wjzyglq-preset.png' alt="Preset" height=150pt>
+<img src='../../图片/xt-wjzyglq10-preset.png' alt="Preset" height=150pt>
 
 ### 2.3.9 拖动窗口
 
@@ -299,7 +299,7 @@
 
 将鼠标放在窗口最上端如图区域，按住左键拖动，可以改变窗口位置。
 
-<img src='../../图片/xt-wjzyglq-drag.png' alt="Drag" height=200pt>
+<img src='../../图片/xt-wjzyglq10-drag.png' alt="Drag" height=200pt>
 
 这一方法对大部分程序窗口，不止文件资源管理器窗口也有用。如果这对某个窗口无效，那么这是由这个程序设置决定的，通常无法更改。
 
@@ -313,7 +313,7 @@
 
 你也可以将窗口拖动到屏幕上端中心，背景会出现一个透明的矩形，此时松开左键，窗口会全屏。拖动到屏幕的其他边缘，这个矩形的大小会变化，这提示了松开左键后窗口的大小。你可以利用这个功能组合不同的程序和文件资源管理器页面，如下：
 
-<img src='../../图片/xt-wjzyglq-divide.png' alt="Divide" height=200pt>
+<img src='../../图片/xt-wjzyglq10-divide.png' alt="Divide" height=200pt>
 
 组合完成后，你可以方便地按[2.3.7 - 移动文件](#237-移动文件)中一样拖动文件。
 
@@ -341,7 +341,7 @@
 
 但是，在桌面空白区右键，会出现三个新选项，如下红框所示。
 
-<img src='../../图片/xt-wjzyglq-desktopchoice.png' alt="Choice" height=300pt>
+<img src='../../图片/xt-wjzyglq10-desktopchoice.png' alt="Choice" height=300pt>
 
 选择它们可以更改电脑的显示设置（通常不用设置）或者桌面背景（根据使用者而定，如果你正在使用其他人的电脑，不要更改），目前暂时不用学习。
 
