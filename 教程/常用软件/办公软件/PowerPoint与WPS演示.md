@@ -1,5 +1,7 @@
 ## 3.3.3 PowerPoint 与 WPS 演示
 
+![AI辅助](../../../图片/ai.svg)
+
 PowerPoint 和 WPS 演示属于“演示文稿软件”，主要用于做课件、做汇报、做社团展示、做答辩。
 
 它和 Word 最大的区别在于：Word 更适合写完整文章，而 PowerPoint 更适合一页一页地展示重点内容。
